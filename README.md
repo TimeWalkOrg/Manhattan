@@ -3,6 +3,7 @@ An historically accurate reconstruction of Manhattan (and nearby shorelines) as 
 
 - Built in Unreal Engine 5.1
 - An open-source project: contact us to contribute!
+- Upwork project spec [here](https://www.upwork.com/jobs/~010dbfb54f75d8b979)
 
 
 ![1609 vs 2022 maps](https://github.com/TimeWalkOrg/Manhattan-1609/blob/main/1609-2022_Manhattan.jpeg)
