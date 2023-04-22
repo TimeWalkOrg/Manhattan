@@ -10,4 +10,4 @@ An historically accurate reconstruction of Manhattan (and nearby shorelines) as 
 
 
 ![NYC Oasis map with waterways](https://github.com/TimeWalkOrg/Manhattan-1609/blob/main/1609%20OasisNYC%20map%20with%20waterways.png)
-[Source: OasisNYC.net]([https://viewing.nyc/this-side-by-side-rendering-and-aerial-photo-shows-manhattan-1609-and-2017/](http://www.oasisnyc.net/map.aspx?zoom=4&x=985510.42&y=199447.92&etabs=0&categories=TRANSREF%2CPARKS_OPENSPACE%2CPROPERTY_INFO%2CHISTORICAL%2CBOUNDARIES&mainlayers=Mnhta_Water%2CLOTS&labellayers=&satellite=1609))
+[Source: OasisNYC.net](http://www.oasisnyc.net/map.aspx?zoom=4&x=985510.42&y=199447.92&etabs=0&categories=TRANSREF%2CPARKS_OPENSPACE%2CPROPERTY_INFO%2CHISTORICAL%2CBOUNDARIES&mainlayers=Mnhta_Water%2CLOTS&labellayers=&satellite=1609)
