@@ -12,3 +12,6 @@ An historically accurate reconstruction of Manhattan (and nearby shorelines) as 
 
 ![NYC Oasis map with waterways](Images/1609%20OasisNYC%20map%20with%20waterways.png)
 [Source: OasisNYC.net](http://www.oasisnyc.net/map.aspx?zoom=4&x=985510.42&y=199447.92&etabs=0&categories=TRANSREF%2CPARKS_OPENSPACE%2CPROPERTY_INFO%2CHISTORICAL%2CBOUNDARIES&mainlayers=Mnhta_Water%2CLOTS&labellayers=&satellite=1609)
+
+Screenshot of 1609 terrain (rendered in Unreal Engine):
+![1609 screenshot](Images/1609_Manhattan_Screenshot_01.png)
