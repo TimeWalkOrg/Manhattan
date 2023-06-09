@@ -1,8 +1,9 @@
-# Manhattan-1609
+# Manhattan 1609
 An historically accurate reconstruction of Manhattan (and nearby shorelines) as of Henry Hudson's 1609 arrival
 
 - Built in Unreal Engine 5.2
 - Inspired by the awesome [Manahatta Project](https://en.wikipedia.org/wiki/Mannahatta_Project) (aka [Welikia](https://welikia.org/))
+- As part of the larger [TimeWalk.org](https://github.com/TimeWalkOrg) project, this model will eventually incorporate terrain and building models for 1660, 1776, 1882, and 2023 (enabling virtual "time travel")
 - An open-source project: contact us to contribute!
 - Upwork project spec [here](https://www.upwork.com/jobs/~010dbfb54f75d8b979)
 
