@@ -23,6 +23,9 @@
 # files if adding them here.
 !/Content/**/*.uasset
 !/Content/**/*.umap
+
+# Ignore assets in 3rdPartyAssets folder
+/Content/3rdPartyAssets/
 /Content/HalfMoon/
 
 # Allow any files from /RawContent dir.
