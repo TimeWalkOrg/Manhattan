@@ -23,6 +23,7 @@
 # files if adding them here.
 !/Content/**/*.uasset
 !/Content/**/*.umap
+/Content/HalfMoon/
 
 # Allow any files from /RawContent dir.
 # Any file in /RawContent dir will be managed by git lfs.
