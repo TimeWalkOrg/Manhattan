@@ -26,7 +26,7 @@
 
 # Ignore assets in 3rdPartyAssets folder
 /Content/3rdPartyAssets/
-/Content/HalfMoon/
+/Content/Birds/
 
 # Allow any files from /RawContent dir.
 # Any file in /RawContent dir will be managed by git lfs.
