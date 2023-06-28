@@ -18,13 +18,15 @@
 !/Plugins/**
 !/Images/**
 
-# Only allow .uasset and .umap files from /Content dir.
+# Only allow .uasset and .umap files from /Content dir (except within /Content/3rdPartyAssets/).
 # They're tracked by git-lfs, don't forget to track other
 # files if adding them here.
 !/Content/**/*.uasset
 !/Content/**/*.umap
+/Content/3rdPartyAssets/**/*.uasset
+/Content/3rdPartyAssets/**/*.umap
 
-# Ignore assets in 3rdPartyAssets folder
+# Ignore assets in 3rdPartyAssets folder (except for "*.uasset" and "*.umap" files).
 /Content/3rdPartyAssets/
 /Content/Birds/
 
