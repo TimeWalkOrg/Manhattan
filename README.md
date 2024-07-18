@@ -1,6 +1,6 @@
 # TimeWalk Manhattan - Source Material
 
-This repository includes all public information about the TimeWalk Manhattan project.  Let us know if you would like to contribute.
+This repository includes all public information related to the TimeWalk Manhattan project.  Let us know if you would like to contribute.
 
  * [TimeWalk Manhattan Wiki](https://github.com/TimeWalkOrg/Manhattan_public/wiki) - image and online references for all historical assumptions in the TimeWalk project
  * TimeWalk Manhattan Open Issues list - our prioritized bugs and improvements list
