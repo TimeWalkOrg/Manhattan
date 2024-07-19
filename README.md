@@ -3,7 +3,7 @@
 This repository includes all public information related to the TimeWalk Manhattan project.
 
  * [TimeWalk Manhattan Wiki](https://github.com/TimeWalkOrg/Manhattan_public/wiki) - image and online references for all historical assumptions in the TimeWalk project
- * [TimeWalk Manhattan Open Issues list](https://github.com/orgs/TimeWalkOrg/projects/4/views/1) - our prioritized bugs and improvements list
+ * [TimeWalk Manhattan Open Issues list](https://github.com/orgs/TimeWalkOrg/projects/4/views/2) - our prioritized bugs and improvements list
  * [Python Tools](https://github.com/TimeWalkOrg/Manhattan_public/tree/main/Python_Tools) - python code used to back up this wiki and issues list
 
 
