@@ -7,7 +7,7 @@ This repository includes all public information related to the TimeWalk Manhatta
  * [Python Tools](https://github.com/TimeWalkOrg/Manhattan_public/tree/main/Python_Tools) - python code used to back up this wiki and issues list
 
 
-Note: The TimeWalk Manhattan Unreal Engine project is maintained in a separate, developer-only repository.
+Note: The TimeWalk Manhattan Unreal Engine project is maintained in a separate, private repository (to protect creative work of asset creators).
 
 Always looking for help from history experts, UE developers, and artists.  
 
