@@ -12,3 +12,11 @@ Note: The TimeWalk Manhattan Unreal Engine project is maintained in a separate, 
 Always looking for help from history experts, UE developers, and artists.  
 
 Please let us know if you would like to contribute.
+
+<!-- timewalk-directory -->
+---
+## Part of the TimeWalk project
+
+**This repo:** source material (Wiki) + the canonical Issues List (bugs/roadmap) for TimeWalk Manhattan. GitHub Issues here is the canonical tracker — not a code repo.
+
+**Full project directory** (what every TimeWalk repo is for): https://helm.barnettlabs.tech/projects
